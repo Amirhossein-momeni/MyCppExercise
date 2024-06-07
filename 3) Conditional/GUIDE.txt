@@ -5,4 +5,6 @@
 05) A program that determines whether the entered number is greater than or less than or equal to zero.
 06) A program that receives three numbers and determines the largest number.
 07) A program that recognizes prime numbers.
+08) A program that determines the uppercase or lowercase letters of the alphabet.
 17) A program that can determine the largest number using "switch case".
+18) A program that receives two numbers and finds the largest number.

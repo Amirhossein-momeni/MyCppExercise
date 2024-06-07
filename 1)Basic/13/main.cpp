@@ -14,7 +14,7 @@ int main()
 
     mile = kilometr * 0.6213712;
 
-    cout << "your result is: " << mile;
+    cout << "your result is: " << mile << endl;
 
     return 0;
 }
