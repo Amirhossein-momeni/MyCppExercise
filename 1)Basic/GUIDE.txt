@@ -9,5 +9,18 @@
 09) A program that receives and moves two numbers.(with the third variable)
 10) A program that receives and moves two numbers.(without the third variable)
 11) A program that calculates the size of all types of data.
+12) A program that converts minutes to seconds.
 13) A program that converts kilometers to miles.
 14) A program that converts foot to meters.
+15) A program that converts Fahrenheit to Celsius.
+16) A program that takes two input numbers and displays the quotient and remainder.
+17) A program that reverses a two-digit number.	
+18) A program that displays the first and last digits of any number greater than 10 as a two-digit number.
+19) A program that converts a value into an ASCII code.
+20) A program that calculates the circumference and area of ​​a circle.
+21) A program that calculates the perimeter and area of ​​a square.
+22) A program that calculates the perimeter and area of ​​a rectangle.
+23) A program that calculates the perimeter and area of ​​a triangle.
+24) A program that receives the day and converts it to year, month and day.
+25) A program that converts year and month to day.
+26) A program that takes the name and surname and displays the surname first and then the name.

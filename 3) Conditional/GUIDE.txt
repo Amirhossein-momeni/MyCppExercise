@@ -6,5 +6,11 @@
 06) A program that receives three numbers and determines the largest number.
 07) A program that recognizes prime numbers.
 08) A program that determines the uppercase or lowercase letters of the alphabet.
+09) A program that receives the score and divides it into excellect, good, medium, weak and bad.
+10) A program that executes the function:           
+                                         x  > 1 ---- 2x+1
+                                         x = 1 ---- 2x  
+                                         x < 1 ---- 2x-1
+							
 17) A program that can determine the largest number using "switch case".
 18) A program that receives two numbers and finds the largest number.
