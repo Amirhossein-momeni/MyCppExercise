@@ -1,3 +1,5 @@
+if & else ::
+
 01) A program that takes two numbers and checks if they are equal or not.
 02) A program that receives two different numbers and prints the smaller one.
 03) A program that receives two different numbers and prints the Bigger one. 
@@ -8,9 +10,22 @@
 08) A program that determines the uppercase or lowercase letters of the alphabet.
 09) A program that receives the score and divides it into excellect, good, medium, weak and bad.
 10) A program that executes the function:           
-                                         x  > 1 ---- 2x+1
-                                         x = 1 ---- 2x  
-                                         x < 1 ---- 2x-1
-							
+                   x > 1   ---- 2x+1
+                   x = 1   ---- 2x  
+                   x < 1   ---- 2x-1
+11)  A program that takes the coefficients of the equation and solves the following equation.                                                                                                                                                                             ax2 + bx + c 	
+12) A program that calculates whether it is a leap year or not.
+13) A program that specifies whether a character is an alphabet or a number or a special character.
+14) A program that specifies the name of the day of the week.
+15) A program that determines whether a person is old enough to vote.
+16) A program that enters the number of the month and shows the name and number of days of that month.
+
+switch case :: 
+
 17) A program that can determine the largest number using "switch case".
 18) A program that receives two numbers and finds the largest number.
+19) A program that shows the days of the week.
+20) A simple calculator app.
+21) A program that determines the number of days in a month.
+22) A program that determines whether a number is even or odd.
+23) A program that determines gender based on given letters.
