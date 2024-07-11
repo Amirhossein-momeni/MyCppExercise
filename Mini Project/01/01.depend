@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720685318 source:c:\users\hp  victus\desktop\alaki\01\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+
