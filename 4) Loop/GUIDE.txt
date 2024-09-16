@@ -1,18 +1,12 @@
 do while :: 
-
-
 01) A program that prints all English letters using do while.
 
 
 while ::
-
-
 02) A program that prints all English letters using  while.
 
 
 for :: 
-
-
 22) A program to display numbers from 1 to 500 using for.
 23) A program that displays English letter using for.
 24) A program that displays odd numbers between two numbers using for.

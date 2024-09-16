@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722068867 source:c:\users\hp  victus\desktop\for\mini\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<chrono>
+	<thread>
+
